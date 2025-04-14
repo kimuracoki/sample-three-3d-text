@@ -4,7 +4,7 @@ const GeoText3d = () => {
   return (
     <Text3D
       position={[-2, 0, 0]}
-      font="/Roboto_Regular.json"
+      font="Roboto_Regular.json"
       height={0}
       lineHeight={0.7}
       bevelEnabled
